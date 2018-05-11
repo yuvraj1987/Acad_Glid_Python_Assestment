@@ -4,6 +4,7 @@ Created on Fri May 11 14:11:16 2018
 
 @author: jkdadhich
 """
+""" Almost Same Question asked in 1.3 Assignment  """
 print()
 print ("~*~"*15)
 # Asking User to Input Value and Converting into String Format
